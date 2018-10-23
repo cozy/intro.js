@@ -6,7 +6,7 @@
   "homepage": "http://introjs.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/usablica/intro.js"
+    "url": "https://github.com/cozy/intro.js"
   },
   "scripts": {
     "test": "npm run test:jshint",
