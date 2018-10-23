@@ -1,26 +1,18 @@
-# Intro.js v2.9.3
+# Intro.js v2.9.4
 
 [![Build Status](https://travis-ci.org/usablica/intro.js.svg?branch=master)](https://travis-ci.org/usablica/intro.js)
 
 > Better introductions for websites and features with a step-by-step guide for your projects.
 
+__:warning: This is a fork from [https://github.com/usablica/intro.js](https://github.com/usablica/intro.js) with a position fix suggested by [@s00d](https://github.com/s00d) in the [pull request #876](https://github.com/usablica/intro.js/pull/876). As soon as this PR will be merged, this fork won't be necessary or may be used for another fix.__
+
 ## Where to get
-You can obtain your local copy of Intro.js from:
-
-**1)** This github repository, using ```git clone https://github.com/usablica/intro.js.git```
-
-**2)** Using bower ```bower install intro.js --save```
-
-**3)** Using npm ```npm install intro.js --save```
-
-**4)** Download it from CDN ([1](http://www.jsdelivr.com/projects/intro.js), [2](https://cdnjs.com/libraries/intro.js))
+You can obtain your local copy of Intro.js with ```npm install intro.js-fix-cozy```:
 
 ## How to use
 Intro.js can be added to your site in three simple steps:
 
 **1)** Include `intro.js` and `introjs.css` (or the minified version for production) in your page. Use `introjs-rtl.min.css` for Right-to-Left language support.
-
-> CDN hosted files are available at [jsDelivr](http://www.jsdelivr.com/projects/intro.js) (click Show More) & [cdnjs](https://cdnjs.com/libraries/intro.js).
 
 **2)** Add `data-intro` and `data-step` to your HTML elements. To add hints you should use `data-hint` attribute.
 

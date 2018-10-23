@@ -1,8 +1,8 @@
 {
-  "name": "intro.js",
+  "name": "intro.js-fix-cozy",
   "description": "Better introductions for websites and features with a step-by-step guide for your projects",
-  "version": "2.9.3",
-  "author": "Afshin Mehrabani <afshin.meh@gmail.com>",
+  "version": "2.9.4",
+  "author": "Cozy Cloud (cozy.io)",
   "homepage": "http://introjs.com",
   "repository": {
     "type": "git",
