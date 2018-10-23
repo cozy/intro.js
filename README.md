@@ -1,10 +1,9 @@
-# Intro.js v2.9.4
-
-[![Build Status](https://travis-ci.org/usablica/intro.js.svg?branch=master)](https://travis-ci.org/usablica/intro.js)
-
+# Intro.js v2.9.3 with some fixes
 > Better introductions for websites and features with a step-by-step guide for your projects.
 
 __:warning: This is a fork from [https://github.com/usablica/intro.js](https://github.com/usablica/intro.js) with a position fix suggested by [@s00d](https://github.com/s00d) in the [pull request #876](https://github.com/usablica/intro.js/pull/876). As soon as this PR will be merged, this fork won't be necessary or may be used for another fix.__
+
+Fork repository: https://github.com/cozy/intro.js
 
 ## Where to get
 You can obtain your local copy of Intro.js with ```npm install intro.js-fix-cozy```:
